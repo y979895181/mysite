@@ -1,2 +1,2 @@
 # mysite
-login
+关于注册提交
